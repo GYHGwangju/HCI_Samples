@@ -16,7 +16,7 @@ print(f"사용 중인 디바이스: {device}")
 
 # 하이퍼파라미터 설정
 BATCH_SIZE = 32
-EPOCHS = 50
+EPOCHS = 10
 LEARNING_RATE = 0.001
 DATA_DIR = "data"
 
